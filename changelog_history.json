@@ -1,0 +1,15 @@
+[
+  {
+    "version": "2.0.0",
+    "release_date": "2026-10-25",
+    "changelog": [
+      "Phiên bản 2.0 viết lại toàn bộ: thẻ tài sản, ghi tăng, điều chỉnh giá trị, điều chuyển nội bộ, ghi giảm — mọi biến động là chứng từ, chi tiết theo nguồn kinh phí",
+      "Tính hao mòn tròn năm và khấu hao tròn tháng; sửa chứng từ cũ thì hao mòn các năm sau tự tính lại; khóa sổ theo năm",
+      "Công cụ dụng cụ: phiếu nhập / xuất / điều chuyển, tồn theo kho và phòng ban",
+      "Sổ tài sản cố định, sổ theo dõi tại nơi sử dụng (S26-H), bảng tính hao mòn, sổ CCDC, báo cáo tăng giảm, biên bản kiểm kê",
+      "Hồ sơ thanh lý tài sản, CCDC: các bước từ đề nghị đến ghi giảm, in và xuất Word văn bản theo Nghị định 30/2020",
+      "Nhập / xuất Excel mẫu Danh sách TSCĐ của Bộ Tài chính; chuyển dữ liệu từ QLTS bản 1.1",
+      "Cập nhật phần mềm tự động qua menu Cập nhật (tự sao lưu bản đang dùng, tự trả lại bản cũ nếu bản mới không chạy được)"
+    ]
+  }
+]
