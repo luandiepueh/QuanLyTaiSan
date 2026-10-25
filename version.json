@@ -11,6 +11,6 @@
     "Nhập / xuất Excel mẫu Danh sách TSCĐ của Bộ Tài chính; chuyển dữ liệu từ QLTS bản 1.1",
     "Cập nhật phần mềm tự động qua menu Cập nhật (tự sao lưu bản đang dùng, tự trả lại bản cũ nếu bản mới không chạy được)"
   ],
-  "sha256": "48707bc0342b6bd21269b73f28c461c58794753911c5246c1227c7732ad7061b",
-  "size": 27484828
+  "sha256": "eec3cb80be8a90b4555e71f29914bc174db8c6132910b8812a62809465fe00f9",
+  "size": 27483512
 }
