@@ -6,24 +6,26 @@
 <title>PM Quản lý tài sản — Tải về</title>
 <link rel="icon" href="favicon.png">
 <style>
-  :root { --cham: #312e81; --tim: #6d28d9; --vang: #f59e0b; }
-  body { font-family: "Segoe UI", Arial, sans-serif; margin: 0; color: #1f2937; background: #f5f3ff; }
-  header { background: linear-gradient(135deg, var(--cham), var(--tim)); border-bottom: 4px solid var(--vang); color: #fff; }
-  .wrap { max-width: 720px; margin: 0 auto; padding: 24px 16px; }
-  .brand { display: flex; align-items: center; gap: 16px; }
-  .brand img { width: 72px; height: 72px; }
-  h1 { font-size: 1.5rem; margin: 0; }
-  .sub { opacity: .85; font-size: .95rem; margin-top: 2px; }
-  .card { background: #fff; border-radius: 14px; padding: 20px; box-shadow: 0 6px 18px rgba(30,27,75,.10); margin-top: 20px; }
-  .ver { display: inline-block; background: #ede9fe; color: var(--cham); padding: 3px 12px; border-radius: 999px; font-weight: 700; }
+  :root { --accent: #1559c7; --navy: #0e3f7a; --navy-deep: #002658; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif; margin: 0; color: #1d1d1f; background: #f5f5f7; -webkit-font-smoothing: antialiased; }
+  header { background: radial-gradient(500px 260px at 15% 0%, rgba(76,195,240,.3), transparent 70%), linear-gradient(165deg, #1d63c9, var(--navy) 55%, var(--navy-deep)); color: #fff; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 28px 16px; }
+  .brand { display: flex; align-items: center; gap: 18px; }
+  .brand img { width: 80px; height: 80px; filter: drop-shadow(0 6px 14px rgba(0,0,0,.3)); }
+  h1 { font-size: 1.6rem; margin: 0; letter-spacing: -.02em; line-height: 1.15; }
+  .sub { color: rgba(255,255,255,.75); font-size: .95rem; margin-top: 4px; }
+  .card { background: #fff; border-radius: 16px; padding: 22px; box-shadow: 0 1px 2px rgba(0,0,0,.04), 0 6px 20px rgba(0,0,0,.05); margin-top: 20px; }
+  .ver { display: inline-block; background: rgba(21,89,199,.1); color: var(--accent); padding: 3px 12px; border-radius: 999px; font-weight: 600; }
   ul { line-height: 1.6; padding-left: 20px; }
-  a.btn { display: inline-block; background: var(--vang); color: #1f1300; font-weight: 700; padding: 11px 22px; border-radius: 8px; text-decoration: none; }
-  footer { text-align: center; color: #6b7280; font-size: .85rem; padding: 24px 16px; }
+  a.btn { display: inline-block; background: var(--accent); color: #fff; font-weight: 600; padding: 11px 22px; border-radius: 10px; text-decoration: none; transition: transform .1s ease-out, background-color .15s; }
+  a.btn:hover { background: #0f4aa8; }
+  a.btn:active { transform: scale(.97); }
+  footer { text-align: center; color: #6e6e73; font-size: .85rem; padding: 24px 16px; }
 </style>
 </head>
 <body>
 <header><div class="wrap brand">
-  <img src="logo.svg" alt="PM QLTS">
+  <img src="logo.png" alt="PM QLTS">
   <div><h1>PM Quản lý tài sản</h1><div class="sub">Tài sản cố định, công cụ dụng cụ đơn vị hành chính sự nghiệp</div></div>
 </div></header>
 <div class="wrap">
