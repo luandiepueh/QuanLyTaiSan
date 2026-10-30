@@ -1,5 +1,15 @@
 [
   {
+    "version": "2.0.2",
+    "release_date": "2026-10-30",
+    "changelog": [
+      "Sửa lỗi cập nhật tự động: sau khi cài, phần mềm mới không mở được, cửa sổ đen đếm đến 300 giây rồi quay lại phiên bản cũ",
+      "LƯU Ý lần cập nhật này: nếu cửa sổ đen hiện \"Da cho ... giay\" mà phần mềm chưa mở, hãy nhấp đúp mở lại phần mềm như bình thường — cập nhật sẽ tự hoàn tất. Từ các bản sau không cần làm bước này nữa",
+      "Biểu tượng phần mềm mới (QLTS - DTL); giao diện mới gọn và sáng hơn, giao diện tối được làm lại",
+      "Bộ biểu tượng nét mảnh mới cho toàn bộ menu, nút bấm và tiêu đề trang; tự theo cài đặt trợ năng của Windows (giảm chuyển động, giảm trong suốt, tăng tương phản)"
+    ]
+  },
+  {
     "version": "2.0.1",
     "release_date": "2026-10-30",
     "changelog": [

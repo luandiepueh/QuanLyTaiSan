@@ -1,13 +1,13 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "release_date": "2026-10-30",
-  "download_url": "https://github.com/luandiepueh/QuanLyTaiSan/releases/download/2.0.1/QuanLyTaiSan_2.0.1.zip",
+  "download_url": "https://github.com/luandiepueh/QuanLyTaiSan/releases/download/2.0.2/QuanLyTaiSan_2.0.2.zip",
   "changelog": [
-    "Biểu tượng phần mềm mới (QLTS - DTL) cho file chạy, cửa sổ và trang đăng nhập",
-    "Giao diện mới gọn và sáng hơn: thanh menu và chân trang dạng kính mờ, thẻ bo góc, chữ dễ đọc hơn; giao diện tối được làm lại",
-    "Bộ biểu tượng nét mảnh mới cho toàn bộ menu, nút bấm và tiêu đề trang; biểu tượng trong menu đặt trong ô màu để dễ nhận ra",
-    "Tự theo cài đặt của Windows: giảm hiệu ứng chuyển động, giảm hiệu ứng trong suốt, tăng tương phản"
+    "Sửa lỗi cập nhật tự động: sau khi cài, phần mềm mới không mở được, cửa sổ đen đếm đến 300 giây rồi quay lại phiên bản cũ",
+    "LƯU Ý lần cập nhật này: nếu cửa sổ đen hiện \"Da cho ... giay\" mà phần mềm chưa mở, hãy nhấp đúp mở lại phần mềm như bình thường — cập nhật sẽ tự hoàn tất. Từ các bản sau không cần làm bước này nữa",
+    "Biểu tượng phần mềm mới (QLTS - DTL); giao diện mới gọn và sáng hơn, giao diện tối được làm lại",
+    "Bộ biểu tượng nét mảnh mới cho toàn bộ menu, nút bấm và tiêu đề trang; tự theo cài đặt trợ năng của Windows (giảm chuyển động, giảm trong suốt, tăng tương phản)"
   ],
-  "sha256": "f9b2ef4b36956e307939a8c56a8ee802e13d0a1ec55b440bdbe675552a9b82b3",
+  "sha256": "36836a2ce024a3c7affd17bc9a239dd107f25aff63519582ec19fcb7d687a457",
   "size": 27488477
 }
