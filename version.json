@@ -1,16 +1,13 @@
 {
-  "version": "2.0.0",
-  "release_date": "2026-10-25",
-  "download_url": "https://github.com/luandiepueh/QuanLyTaiSan/releases/download/2.0.0/QuanLyTaiSan_2.0.0.zip",
+  "version": "2.0.1",
+  "release_date": "2026-10-30",
+  "download_url": "https://github.com/luandiepueh/QuanLyTaiSan/releases/download/2.0.1/QuanLyTaiSan_2.0.1.zip",
   "changelog": [
-    "Phiên bản 2.0 viết lại toàn bộ: thẻ tài sản, ghi tăng, điều chỉnh giá trị, điều chuyển nội bộ, ghi giảm — mọi biến động là chứng từ, chi tiết theo nguồn kinh phí",
-    "Tính hao mòn tròn năm và khấu hao tròn tháng; sửa chứng từ cũ thì hao mòn các năm sau tự tính lại; khóa sổ theo năm",
-    "Công cụ dụng cụ: phiếu nhập / xuất / điều chuyển, tồn theo kho và phòng ban",
-    "Sổ tài sản cố định, sổ theo dõi tại nơi sử dụng (S26-H), bảng tính hao mòn, sổ CCDC, báo cáo tăng giảm, biên bản kiểm kê",
-    "Hồ sơ thanh lý tài sản, CCDC: các bước từ đề nghị đến ghi giảm, in và xuất Word văn bản theo Nghị định 30/2020",
-    "Nhập / xuất Excel mẫu Danh sách TSCĐ của Bộ Tài chính; chuyển dữ liệu từ QLTS bản 1.1",
-    "Cập nhật phần mềm tự động qua menu Cập nhật (tự sao lưu bản đang dùng, tự trả lại bản cũ nếu bản mới không chạy được)"
+    "Biểu tượng phần mềm mới (QLTS - DTL) cho file chạy, cửa sổ và trang đăng nhập",
+    "Giao diện mới gọn và sáng hơn: thanh menu và chân trang dạng kính mờ, thẻ bo góc, chữ dễ đọc hơn; giao diện tối được làm lại",
+    "Bộ biểu tượng nét mảnh mới cho toàn bộ menu, nút bấm và tiêu đề trang; biểu tượng trong menu đặt trong ô màu để dễ nhận ra",
+    "Tự theo cài đặt của Windows: giảm hiệu ứng chuyển động, giảm hiệu ứng trong suốt, tăng tương phản"
   ],
-  "sha256": "eec3cb80be8a90b4555e71f29914bc174db8c6132910b8812a62809465fe00f9",
-  "size": 27483512
+  "sha256": "f9b2ef4b36956e307939a8c56a8ee802e13d0a1ec55b440bdbe675552a9b82b3",
+  "size": 27488477
 }

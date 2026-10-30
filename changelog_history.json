@@ -1,5 +1,15 @@
 [
   {
+    "version": "2.0.1",
+    "release_date": "2026-10-30",
+    "changelog": [
+      "Biểu tượng phần mềm mới (QLTS - DTL) cho file chạy, cửa sổ và trang đăng nhập",
+      "Giao diện mới gọn và sáng hơn: thanh menu và chân trang dạng kính mờ, thẻ bo góc, chữ dễ đọc hơn; giao diện tối được làm lại",
+      "Bộ biểu tượng nét mảnh mới cho toàn bộ menu, nút bấm và tiêu đề trang; biểu tượng trong menu đặt trong ô màu để dễ nhận ra",
+      "Tự theo cài đặt của Windows: giảm hiệu ứng chuyển động, giảm hiệu ứng trong suốt, tăng tương phản"
+    ]
+  },
+  {
     "version": "2.0.0",
     "release_date": "2026-10-25",
     "changelog": [
